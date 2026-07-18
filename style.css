@@ -1,7 +1,19 @@
-
 h1 {
   color: red;
 }
+
 h2 {
-  coloe: red;
+  color: blue;
+}
+
+p {
+  color: green;
+}
+
+img {
+  width: 300px;
+  border-radius: 20px;
+  border: 3px solid pink;
+  display: block;
+  margin: auto;
 }
