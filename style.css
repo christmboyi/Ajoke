@@ -17,3 +17,7 @@ h2, img {
   display: block;
   margin: auto;
 }
+
+body {
+  background-color: pink;
+}
